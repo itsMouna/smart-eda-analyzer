@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Author
 
-Built by **[Mouna Ben Amor]** — feel free to connect on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mouna-ben-amor-435a33363/?skipRedirect=true)) or [GitHub]([https://github.com](https://github.com/itsMouna))
+Built by **[Mouna Ben Amor]** — feel free to connect on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mouna-ben-amor-435a33363/?skipRedirect=true]) or [GitHub]([https://github.com](https://github.com/itsMouna])
 
 ---
 
